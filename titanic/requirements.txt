@@ -1,0 +1,4 @@
+pandas
+pathlib
+scikit-learn
+kaggle
