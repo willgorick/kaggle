@@ -2,3 +2,4 @@ pandas
 pathlib
 scikit-learn
 kaggle
+pytest
